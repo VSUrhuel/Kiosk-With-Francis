@@ -16,5 +16,10 @@ namespace Kiosk_With_Francis
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
